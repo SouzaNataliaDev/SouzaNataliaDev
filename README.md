@@ -1,6 +1,6 @@
 ### Olá! Eu sou Natalia Souza. 👋
 
-- 👩‍💻 Sou desenvolvedora Full-Stack!
+- 👩‍💻 Sou desenvolvedora Back-end!
 
 
 ![Natalia GitHub status](https://github-readme-stats.vercel.app/api?username=SouzaNataliaDev&show_icons=true&theme=tokyonight)
